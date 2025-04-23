@@ -8,3 +8,7 @@
   💜 Desenvolvedor com alma retrô <br/>
   ⚡️ Explorando Data Warehouses, NoSQL e APIs <br/>
 </p>
+
+![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=flat-square&color=purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
