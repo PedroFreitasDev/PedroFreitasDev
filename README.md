@@ -1,7 +1,7 @@
 <h1 align="center">👾 Bem-vindo ao meu GitHub!</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Fa5GaT82wdjJJYVh31Q7iBLBF6iNmZck/view?usp=sharing" width="200"/>
+  <img src= "C:\Users\Pedro de Freitas\Downloads\ChatGPT Image 22 de abr. de 2025, 20_36_23-min" width="200"/>
 </p>
 
 <p align="center">
