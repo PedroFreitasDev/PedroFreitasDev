@@ -2,7 +2,6 @@
 
 <p align="center">
   Estudante do <strong>4º semestre de Ciência da Computação</strong><br/>
-  Apaixonado por transformar ideias em projetos com código 💻
 </p>
 
 ---
