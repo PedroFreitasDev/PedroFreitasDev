@@ -48,7 +48,7 @@ Inclui uso de **HTML, boostrap, JS e integração com backend**, focado em resol
 Se quiser conversar, colaborar, tirar dúvidas ou só bater um papo:
 
 - 📧 **pedrodefreitas13@hotmail.com**  
-- 💼 [LinkedIn](www.linkedin.com/in/pedro-freitas-b3b43a261)  
+- 💼 Linkedin: Pedro Freitas  
 
 ---
 
