@@ -35,7 +35,7 @@
 ## ⚒️ Projetos em destaque
 
 ### 🧾 [Sistema-de-Gestao](https://github.com/PedroFreitasDev/Sistema-de-Gestao)  
-Sistema completo de gestão de usuários e produtos via terminal.
+Sistema completo de gestão de usuários e produtos via terminal utilizando Python.
 
 ### 🌐 [PI-DesenvolvimentoWEB-Unifeob-2025](https://github.com/PedroFreitasDev/PI-DesenvolvimentoWEB-Unifeob-2025)  
 Projeto integrador da faculdade voltado ao desenvolvimento web.  
