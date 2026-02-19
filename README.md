@@ -1,7 +1,7 @@
 <h1 align="center">👋 E aí! Eu sou o Pedro Freitas</h1>
 
 <p align="center">
-  Estudante do <strong>4º semestre de Ciência da Computação</strong><br/>
+  Estudante do <strong>5º semestre de Ciência da Computação</strong><br/>
 </p>
 
 ---
