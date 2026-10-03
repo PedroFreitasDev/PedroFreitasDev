@@ -31,12 +31,9 @@ pedro = {
     "formacao":   "Ciência da Computação — UNIFEOB (5º semestre, formatura 2027)",
     "foco":       "Engenharia de Dados",
     "objetivo":   "Estágio em Dados",
-    "gosto_de":   ["pipelines", "ETL/ELT", "modelagem de dados", "dados limpos e confiáveis"],
-    "mentalidade": "dado bruto não é problema, é matéria-prima",
+    "gosto_de":   ["pipelines", "ETL/ELT", "modelagem de dados"],
 }
 ```
-
-> Gosto de pegar dados bagunçados, entender de onde vêm, limpar, modelar e entregá-los prontos para gerar decisão.
 
 ---
 
